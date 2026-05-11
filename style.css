@@ -105,12 +105,12 @@ nav{
     color: black;
 }
 
-.services_total{
+.services_total, .galeri_total, .about_clinic{
     width: 1300px;
     margin: 0px auto 0px auto;
 }
 
-.services_total h2{
+.services_total h2, .galeri_total h2{
     text-align: center;
 }
 
@@ -153,12 +153,12 @@ article h3{
 footer{
     color: rgb(255, 255, 255);
     background-color: #f97316;
+    padding: 5px 20px 10px 100px;
 }
 
 .footer-geg {
     display: flex;
     justify-content: center;
-    width: 800px;
 }
 
 .hhhheee{
